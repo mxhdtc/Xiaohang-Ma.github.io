@@ -1,7 +1,7 @@
 # Academic Project Page Template
 This is an academic paper project page template.
 
-Get access to the project page: through this {link}[https://mxhdtc.github.io/Xiaohang-Ma.github.io/]
+Get access to the project page: through this [link]{https://mxhdtc.github.io/Xiaohang-Ma.github.io/}
 
 Example project pages built using this template are:
 - https://vision.huji.ac.il/spectral_detuning/
